@@ -1,0 +1,23 @@
+CS1566 Final Project Proposal
+11/05/14
+
+Project Title: OpenRPGL (h4h4)
+Team Members: Nicholas Habib, Matthew H Kerbis, Jacob M Schreiner, Kyle L Tanczos
+      
+     Our project will be a basic version of a Role Playing Style video game.  Using a keyboard and mouse to interact with the openGL program, the user will control a character in a 3D world viewed from the top-down. The user-controlled character has abilities/skills that it is able to use which will interact with the in game world and computer controlled characters.  Our group will be developing a game engine to handle user input and the interaction of game elements, which includes instances such as movement, abilities used on characters, computing damage and health of characters, and interacting and viewing meta-data of world elements.  Our group will also be developing a user interface which will allow user to see at a quick glance the status of their character and the in game world.
+
+	Relevant topics our project will be using are (not limited to): 3D geometric modeling, event handling and callbacks, intersection of planes/lines, game design, game engine, texture mapping, lighting, and perspective viewing.
+
+	Team Roles: Equal project development and design will be expected
+
+	Timeline: 
+Week 0: Proposal
+Week 1: In-game user interface 
+Week 2: ….
+Week 3: …
+….
+Final Grade: Profit?
+
+
+
+ 
